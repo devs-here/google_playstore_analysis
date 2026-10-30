@@ -2,7 +2,7 @@
 
 An interactive data analysis dashboard built with Python, MySQL and Streamlit, analysing 9,659 unique Google Play Store apps.
 
-🚀 [Live Demo](YOUR_LIVE_LINK)
+🚀 [Live Demo](https://playstore-analysis-gaurav.streamlit.app/)
 
 ## ✨ Features
 
